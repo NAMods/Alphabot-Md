@@ -32,17 +32,17 @@ global.language = english //change indonesia to english if you don't understand 
 // Other
 // Other
 global.botname = "Alphabot-Md" //namabot kalian
-global.ownername = "sandaru" //nama kalian
+global.ownername = "NAMods OFC" //nama kalian
 global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
+global.youtube = "https://youtube.com/@user-hq5tb8xw8w" //bebas asal jan hapus
 global.myweb2 = "https://s.id/BOTGITHUB" //bebas
-global.email = "mdsandaru2@gmail.com" //bebas
-global.region = "Buddhist" //bebas
+global.email = "darkdevil4wa@gmail.com" //bebas
+global.region = "Islam" //bebas
 global.timezone = 'Asia/Colombo' //  timezone wib
-global.premium = ['94764497078'] //premium user
-global.owner = ["764497078", "94764497078"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "764497078" // nomor wa kalian
-global.ownernomerr = "+94764497078" //nmr wa kalian
+global.premium = ['94770802376'] //premium user
+global.owner = ["770802376", "94770802376"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "770802376" // nomor wa kalian
+global.ownernomerr = "+94770802376" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
